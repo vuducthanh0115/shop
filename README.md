@@ -16,5 +16,9 @@
 - Thêm sản phẩm vào giỏ hàng, xem giỏ hàng
 - Đăng nhập, đăng kí, quên mật khẩu, gửi mail
 - Thanh toán hoá đơn
+## Sơ đồ thực thể
+![Sơ đồ thực thể](https://github.com/vuducthanh0115/shop/blob/main/image/so_do_thuc_the.jpg)
+## Thiết kế database
+![Sơ đồ thực thể](https://github.com/vuducthanh0115/shop/blob/main/image/csdl.jpg)
 
 
